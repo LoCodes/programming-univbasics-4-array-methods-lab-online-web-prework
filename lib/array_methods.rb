@@ -23,6 +23,8 @@ def using_first(array)
 end
 
 def using_last(array)
+  using_last = ["wow", "I", "am", "really", "learning", "arrays!"]
+  using_last
 
 end
 
