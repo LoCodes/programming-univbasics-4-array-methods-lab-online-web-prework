@@ -24,7 +24,7 @@ end
 
 def using_last(array)
   using_last = ["wow", "I", "am", "really", "learning", "arrays!"]
-  using_last
+  using_last = using_last.last 
 
 end
 
