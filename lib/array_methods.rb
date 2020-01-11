@@ -5,7 +5,7 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-   using_sort = using_sort.sort
+   using_sort = 
 
 end
 
